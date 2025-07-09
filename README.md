@@ -1,4 +1,5 @@
 # 🚗PCA-and-t-SNE-Anaylsis-Vintage-Car-Segmentation
+# 🚗 PCA and t-SNE Analysis: Auto MPG Dataset (Vintage Car Segmentation)
 
 ## 📋 Project Overview
 This project applies **dimensionality reduction techniques**—**Principal Component Analysis (PCA)** and **t-Distributed Stochastic Neighbor Embedding (t-SNE)**—to analyze the **Auto MPG dataset** for a fictional vintage car dealership, **SecondLife**.
@@ -56,4 +57,24 @@ Three distinct car segments were identified:
    Small, fuel-efficient cars with fewer cylinders  
    *Target audience:* Practical, eco-conscious buyers.
 
-2. **Group**
+2. **Group 2:**  
+   Balanced cars with moderate performance and fuel efficiency  
+   *Target audience:* Buyers seeking versatility.
+
+3. **Group 3:**  
+   Large, powerful cars with low fuel efficiency  
+   *Target audience:* Enthusiasts seeking performance and prestige.
+
+---
+
+## 📈 Business Recommendations
+- **Targeted Marketing:** Tailor campaigns for each segment.
+- **Strategic Procurement:** Focus on inventory that matches segment demand.
+- **Pricing Strategy:** Adjust prices based on segment characteristics.
+- **Operational Planning:** Optimize restoration and maintenance by segment.
+
+---
+## 📑 Credits
+Project completed as part of the **MIT Applied Data Science Program**.
+
+

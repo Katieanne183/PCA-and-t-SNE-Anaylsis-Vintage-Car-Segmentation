@@ -1,4 +1,4 @@
-# 🚗PCA-and-t-SNE-Anaylsis-Vintage-Car-Segmentation
+# 🚗 Vintage Car Segmentation
 
 ## 📋 Project Overview
 This project applies **dimensionality reduction techniques**—**Principal Component Analysis (PCA)** and **t-Distributed Stochastic Neighbor Embedding (t-SNE)**—to analyze the **Auto MPG dataset** for a fictional vintage car dealership, **SecondLife**.
